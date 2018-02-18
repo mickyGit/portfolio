@@ -16,7 +16,13 @@
         </div>
 
         <div class="col-md-6">
-            <p>ici sera mes infos</p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        Addresse : Lieu-dit la Vayssière 46300 Le Vigan
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
